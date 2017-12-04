@@ -215,7 +215,7 @@ Mettez vos adresses postales afin de recevoir un exemplaire  :
 * Pascal Lafourcade et Malika More : IREM - Campus Universitaire des Cézeaux - 3, place Vasarely - TSA 60026 - CS 60026 - 63178 AUBIERE CEDEX (ne me demandez pas ce que ça veut dire TSA, CS...)
 
 * Philippe Marquet, Université lille 1, cité sceentifique, bâtiment M3, 59655 Villeneuve d'ascq cedex
-
+* Eric Duchene et Aline Parreau - Liris, Bâtiment Nautibus - 843, Bd du 11 novembre 1918 - 69622 Villeurbanne Cedex
 
 La traditionnelle rubrique des recettes du jour
 ===============================================
